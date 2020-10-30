@@ -1,4 +1,8 @@
 creating a new branch is quick
 
 hi dsm this is dev branch's readme
-hi dsm I'm coming devhi Im main branch
+<<<<<<< HEAD
+hi dsm I'm coming dev hi Im main branch
+=======
+hi dsm I'm coming dev hi,Im main branch
+>>>>>>> feature1
